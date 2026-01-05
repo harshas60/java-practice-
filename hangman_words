@@ -1,0 +1,11 @@
+hangman_words = [
+    "apple", "chair", "bread", "house", "tiger", "phone", "river", "train",
+    "laptop", "bicycle", "rainbow", "football", "village", "diamond",
+    "monster", "holiday",
+    "astronaut", "algorithm", "microscope", "encyclopedia",
+    "electricity", "architecture", "cryptocurrency",
+    "compiler", "database", "software", "hardware",
+    "variable", "function", "internet", "protocol",
+    "avengers", "batman", "matrix", "inception",
+    "waterfall", "mountain", "hurricane", "volcano"
+]
